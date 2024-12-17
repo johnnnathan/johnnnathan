@@ -4,7 +4,7 @@ I am a Computer Science student at Maastricht University. I am passionate about 
 
 - 🌐 Member of [MaaSec](github.com/MaaSecLab)
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=johnnnathan)](https://git.io/streak-stats)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnnnathan&show_icons=true&theme=dark" width="400">
   

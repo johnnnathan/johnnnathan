@@ -2,7 +2,7 @@
 # Hi 👋 I am Dimi! 
 I am a Computer Science student at Maastricht University. I am passionate about reverse engineering and low-level languages.
 
-- 🌐 Member of [MaaSec](github.com/MaaSecLab)
+- 🌐 Member of [MaaSec](https://github.com/MaaSecLab)
 ---
 
 <p align="center">

@@ -6,8 +6,3 @@ I am a Computer Science student at Maastricht University. I am passionate about 
 - 🧑‍💻 Top 9% on [TryHackMe](https://tryhackme.com/r/p/johnnnathan)
 - 👾 #1 Solver on [CrackMyApp](https://crackmy.app/leaderboard)
 ---
-
-[![johnnnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnnathan)](https://github.com/johnnnathan/github-readme-stats)  
-
-
----

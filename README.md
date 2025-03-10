@@ -7,9 +7,8 @@ I am a Computer Science student at Maastricht University. I am passionate about 
 - 👾 #1 Solver on [CrackMyApp](https://crackmy.app/leaderboard)
 ---
 
-<p align="center">
   [johnnnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnnathan)
   
-</p>
+
 
 ---

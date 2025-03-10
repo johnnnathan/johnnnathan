@@ -8,7 +8,7 @@ I am a Computer Science student at Maastricht University. I am passionate about 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnnnathan&show_icons=true&theme=dark" width="400">
+  [![johnnnathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnnathan)](https://github.com/johnnnathan/github-readme-stats)
   
 </p>
 
